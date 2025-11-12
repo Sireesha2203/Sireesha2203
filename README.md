@@ -46,8 +46,6 @@ Real‑time geofence-based alerts and tracking for high‑risk areas; validated 
 Tech: MERN Stack, WebSockets, real‑time geofencing  
 🔗 https://github.com/Sireesha2203/lakshmana-rekha
 
-(Each project repo includes README, architecture notes, and demo instructions — add short demo GIFs to boost recruiter engagement.)
-
 ---
 
 ## Experience Highlights
